@@ -1,0 +1,4 @@
+2 Influenza_A -122.4194 37.7749 Downtown_San_Francisco_CA 1.8 230 3.9 SF_General_Hospital
+6 Norovirus -118.8353 37.493 Mammoth_Lakes_CA 1.2 140 4.6 Mono_County_Clinic
+9 COVID-19 -122.3321 47.6062 Seattle_WA 2.3 560 4.9 UW_Health
+12 Influenza_A -121.8907 37.3369 San_Jose_CA 2.0 310 4.1 SJ_Community_Health

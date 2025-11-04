@@ -1,0 +1,37 @@
+user1_WHO is added to the watcher-list
+user2_CDC is added to the watcher-list
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is inserted into incident-queue
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is close to user1_WHO
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is close to user2_CDC
+user3_ECDC is added to the watcher-list
+(Disease: COVID-19) at Los_Angeles_CA is inserted into incident-queue
+(Disease: COVID-19) at Los_Angeles_CA is close to user1_WHO
+(Disease: COVID-19) at Los_Angeles_CA is close to user2_CDC
+(Disease: COVID-19) at Los_Angeles_CA is close to user3_ECDC
+Most severe health incident in past 6 hours:
+(Disease: COVID-19) Severity: 4.9 at Los_Angeles_CA
+user2_CDC is removed from the watcher-list
+(Disease: Norovirus) at Seattle_WA is inserted into incident-queue
+user4_WHO is added to the watcher-list
+(Disease: Influenza_A) at Mountain_View_CA is inserted into incident-queue
+(Disease: Influenza_A) at Mountain_View_CA is close to user1_WHO
+(Disease: Influenza_A) at Mountain_View_CA is close to user3_ECDC
+(Disease: Influenza_A) at Mountain_View_CA is close to user4_WHO
+(Disease: COVID-19) Severity: 4.9 at Los_Angeles_CA
+(Disease: Measles) at San_Jose_CA is inserted into incident-queue
+(Disease: Measles) at San_Jose_CA is close to user1_WHO
+(Disease: Measles) at San_Jose_CA is close to user3_ECDC
+(Disease: Measles) at San_Jose_CA is close to user4_WHO
+user5_UNICEF is added to the watcher-list
+(Disease: COVID-19) at Oakland_CA is inserted into incident-queue
+(Disease: COVID-19) at Oakland_CA is close to user1_WHO
+(Disease: COVID-19) at Oakland_CA is close to user3_ECDC
+(Disease: COVID-19) at Oakland_CA is close to user4_WHO
+(Disease: COVID-19) at Oakland_CA is close to user5_UNICEF
+user1_WHO is removed from the watcher-list
+Most severe health incident in past 6 hours:
+(Disease: COVID-19) Severity: 4.7 at Oakland_CA
+(Disease: Influenza_A) at Santa_Monica_CA is inserted into incident-queue
+(Disease: Influenza_A) at Santa_Monica_CA is close to user3_ECDC
+(Disease: Influenza_A) at Santa_Monica_CA is close to user4_WHO
+(Disease: Influenza_A) at Santa_Monica_CA is close to user5_UNICEF

@@ -1,0 +1,8 @@
+0 add -122.4 37.8 user1_WHO
+1 add -118.3 34.0 user2_CDC
+3 query-highest
+5 add -121.8 38.2 user3_ECDC
+6 add -123.1 37.9 user4_WHO
+8 delete user2_CDC
+10 query-disease Influenza
+13 query-region -122.0 38.0 100

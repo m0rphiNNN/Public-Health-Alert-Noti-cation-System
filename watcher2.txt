@@ -1,0 +1,10 @@
+0 add -122.4 37.8 user1_WHO
+1 add -118.3 34.0 user2_CDC
+2 add -122.1 37.4 user3_ECDC
+4 query-highest
+5 delete user2_CDC
+6 add -123.0 37.9 user4_WHO
+9 query-disease COVID-19
+14 add -122.5 37.6 user5_UNICEF
+16 delete user1_WHO
+17 query-highest

@@ -1,0 +1,25 @@
+user1_WHO is added to the watcher-list
+user2_CDC is added to the watcher-list
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is inserted into incident-queue
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is close to user1_WHO
+(Disease: Influenza_A) at Downtown_San_Francisco_CA is close to user2_CDC
+Most severe health incident in past 6 hours:
+(Disease: Influenza_A) Severity: 3.9 at Downtown_San_Francisco_CA
+user3_ECDC is added to the watcher-list
+user4_WHO is added to the watcher-list
+(Disease: Norovirus) at Mammoth_Lakes_CA is inserted into incident-queue
+(Disease: Norovirus) at Mammoth_Lakes_CA is close to user1_WHO
+(Disease: Norovirus) at Mammoth_Lakes_CA is close to user2_CDC
+(Disease: Norovirus) at Mammoth_Lakes_CA is close to user3_ECDC
+(Disease: Norovirus) at Mammoth_Lakes_CA is close to user4_WHO
+user2_CDC is removed from the watcher-list
+(Disease: COVID-19) at Seattle_WA is inserted into incident-queue
+(Disease: COVID-19) at Seattle_WA is close to user3_ECDC
+(Disease: COVID-19) at Seattle_WA is close to user4_WHO
+No records
+(Disease: Influenza_A) at San_Jose_CA is inserted into incident-queue
+(Disease: Influenza_A) at San_Jose_CA is close to user1_WHO
+(Disease: Influenza_A) at San_Jose_CA is close to user3_ECDC
+(Disease: Influenza_A) at San_Jose_CA is close to user4_WHO
+(Disease: COVID-19) Severity: 4.9 at Seattle_WA
+(Disease: Influenza_A) Severity: 4.1 at San_Jose_CA

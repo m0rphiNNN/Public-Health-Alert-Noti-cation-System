@@ -1,0 +1,7 @@
+1 Influenza_A -122.4194 37.7749 Downtown_San_Francisco_CA 1.8 230 3.9 SF_General_Hospital
+3 COVID-19 -118.2437 34.0522 Los_Angeles_CA 2.3 560 4.9 LA_Health_Department
+5 Norovirus -122.3321 47.6062 Seattle_WA 1.2 140 4.6 UW_Health
+7 Influenza_A -122.0838 37.3861 Mountain_View_CA 2.0 300 4.3 El_Camino_Hospital
+13 Measles -121.8949 37.3394 San_Jose_CA 1.5 120 4.2 SJ_Health_Center
+15 COVID-19 -122.2711 37.8044 Oakland_CA 2.1 480 4.7 Alameda_Hospital
+18 Influenza_A -118.4912 34.0195 Santa_Monica_CA 1.9 200 4.0 SM_Clinic
