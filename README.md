@@ -25,3 +25,16 @@ It uses standard Java, so no external libraries are required.
 **How to compile and run it yourself:**
 
 ### 1. Download the code:
+```bash
+git clone https://github.com/BekirAtaYildirim/PublicHealthAlertNotificationSystem.git
+```
+
+### 2. Compile: Navigate to the source directory and compile:
+```bash
+javac *.java
+```
+
+### 3. Run: You can run the program with:
+```bash
+java HealthAlert Notification [--all] <watcherFile> <healthFile>
+```
